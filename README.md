@@ -28,7 +28,7 @@ A passionate high school student from Earth. I love programming, astronomy, desi
 
 ## **About Me**
 
-I am a student with a fervent passion for programming, I have accumulated two years of expertise in Python, HTML, CSS, and JavaScript, along with one year of proficiency in PHP, TypeScript, Node.js, React and Flask. Additionally, I possess a foundational understanding of Java, C, C++, and C#.
+I am a high school student with a fervent passion for programming, I have accumulated two years of expertise in Python, HTML, CSS, and JavaScript, along with one year of proficiency in PHP, TypeScript, Node.js, React and Flask. Additionally, I possess a foundational understanding of Java, C, C++, and C#.
 
 ---
 
