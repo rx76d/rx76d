@@ -30,6 +30,38 @@ A passionate high school student from Earth. I love programming, astronomy, desi
 
 I am a high school student with a fervent passion for programming, I have accumulated two years of expertise in Python, HTML, CSS, and JavaScript, along with one year of proficiency in PHP, TypeScript, Node.js, React and Flask. Additionally, I possess a foundational understanding of Java, C, C++, and C#.
 
+<!-- <table>
+<tr>
+<td width="50%" valign="top">
+
+I am a high school student with a fervent passion for programming, I have accumulated two years of expertise in Python, HTML, CSS, and JavaScript, along with one year of proficiency in PHP, TypeScript, Node.js, React and Flask. Additionally, I possess a foundational understanding of Java, C, C++, and C#.
+
+</td>
+<td width="50%" valign="top">
+
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=27832&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"/>
+</div>
+
+
+</td>
+</tr>
+</table> -->
+
+<br></br>
+
+
+<div align="center">
+<a href="https://heatmap.shymike.dev?id=rx76d&timezone=Asia%2FKolkata&labels=true&year=current&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=rx76d&timezone=Asia%2FKolkata&labels=true&year=current&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=rx76d&timezone=Asia%2FKolkata&labels=true&year=current&theme=light">
+    </picture>
+</a>
+</div>
+
+
 ---
 
-**Last Updated** = 04/12/2025
+**Last Updated** = 23/02/2026
