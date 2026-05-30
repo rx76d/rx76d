@@ -65,3 +65,4 @@ I am a high school student with a fervent passion for programming, I have accumu
 ---
 
 **Last Updated** = 23/02/2026
+**Alternate Account** = @rudrap2009
