@@ -64,5 +64,7 @@ I am a high school student with a fervent passion for programming, I have accumu
 
 ---
 
-**Last Updated** = 23/02/2026
-**Alternate Account** = @rudrap2009
+**Last Updated:** 23/02/2026  
+
+
+**Alternate Account:** [@rudrap2009](https://github.com/rudrap2009)
